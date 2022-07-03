@@ -20,7 +20,6 @@ Swagger codegen maven 插件配置：
                 <addCompileSourceRoot>true</addCompileSourceRoot>
                 <modelPackage>com.liaozibo.study.swagger.model</modelPackage>
                 <apiPackage>com.liaozibo.study.swagger.api</apiPackage>
-                <invokerPackage>com.liaozibo.study.swagger.client</invokerPackage>
                 <configOptions>
                     <sourceFolder>src/main/java</sourceFolder>
                 </configOptions>
