@@ -1,2 +1,6 @@
 /.idea/
 /swagger-codegen.iml
+/src/main/java/com/liaozibo/study/swagger/api/
+/src/main/java/com/liaozibo/study/swagger/model/
+/target/classes/
+/target/maven-status/maven-compiler-plugin/compile/default-compile/
